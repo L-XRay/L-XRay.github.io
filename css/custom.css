@@ -65,8 +65,8 @@
     display: flex !important;
 }
 /* 这里的2是代表导航栏的第2个元素，即有子菜单的元素，可以按自己需求修改 */
-.menus_items .menus_item:nth-child(2) .menus_item_child {
-    left: -125px;
+.menus_items .menus_item:nth-child(5) .menus_item_child {
+    left: -38px;
 }
 
 /* 侧边栏个人信息卡片动态渐变色 */
@@ -153,12 +153,12 @@
 /* 夜间模式菜单栏发光字 */
 [data-theme="dark"] #nav .site-page,
 [data-theme="dark"] #nav .menus_items .menus_item .menus_item_child li a {
-    text-shadow: 0 0 2px var(--theme-color) !important;
+    text-shadow: 0 0 2px rgb(57, 197, 187) !important;
 }
 
 /* 手机端适配 */
 [data-theme="dark"] #sidebar #sidebar-menus .menus_items .site-page {
-    text-shadow: 0 0 2px var(--theme-color) !important;
+    text-shadow: 0 0 2px rgb(57, 197, 187) !important;
 }
 
 /* 鼠标样式 */
