@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Test</title>
+      <link href="/posts/784dd132.html"/>
+      <url>/posts/784dd132.html</url>
+      
+        <content type="html"><![CDATA[<div class="video"><video controls preload><source src='https://www.bilibili.com/bangumi/play/ep64315?from_spmid=666.4.feed.12' type='video/mp4'>Your browser does not support the video tag.</video></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 一些 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>HashMap源码(上)</title>
       <link href="/posts/235dfb88.html"/>
       <url>/posts/235dfb88.html</url>
@@ -69,25 +88,6 @@
             <tag> Spring </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Test</title>
-      <link href="/posts/784dd132.html"/>
-      <url>/posts/784dd132.html</url>
-      
-        <content type="html"><![CDATA[<p>this is Test</p><div class="table-container"><table><thead><tr><th><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/L-XRay"><img src="https://github-readme-stats.vercel.app/api/?username=L-XRay&show_owner=true"/></a></th><th><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/L-XRay"><img src="https://github-readme-stats.vercel.app/api/?username=L-XRay&theme=vue&show_owner=true"/></a></th></tr></thead><tbody><tr><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/L-XRay"><img src="https://github-readme-stats.vercel.app/api/?username=L-XRay&theme=buefy&show_owner=true"/></a></td><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/L-XRay"><img src="https://github-readme-stats.vercel.app/api/?username=L-XRay&theme=solarized-light&show_owner=true"/></a></td></tr><tr><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/L-XRay"><img src="https://github-readme-stats.vercel.app/api/?username=L-XRay&theme=onedark&show_owner=true"/></a></td><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/L-XRay"><img src="https://github-readme-stats.vercel.app/api/?username=L-XRay&theme=solarized-dark&show_owner=true"/></a></td></tr><tr><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/L-XRay"><img src="https://github-readme-stats.vercel.app/api/?username=L-XRay&theme=algolia&show_owner=true"/></a></td><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/L-XRay"><img src="https://github-readme-stats.vercel.app/api/?username=L-XRay&theme=calm&show_owner=true"/></a></td></tr></tbody></table></div><div class="video"><video controls preload><source src='https://www.bilibili.com/bangumi/play/ep64315?from_spmid=666.4.feed.12' type='video/mp4'>Your browser does not support the video tag.</video></div>]]></content>
-      
-      
-      <categories>
-          
-          <category> Java </category>
-          
-      </categories>
-      
       
     </entry>
     
